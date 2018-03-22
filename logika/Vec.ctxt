@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=nazev\ prenositelnost
+comment0.target=Vec(java.lang.String,\ boolean)
+comment0.text=\r\n\ Vytvo\u0159en\u00ED\ v\u011Bci\ se\ zadan\u00FDm\ popisem\r\n\r\n\ @param\ nazev\ v\u011Bci,\ je-li\ v\u011Bc\ p\u0159enositeln\u00E1\ \r\n
+comment1.params=
+comment1.target=java.lang.String\ getNazev()
+comment1.text=\r\n\ \ Metoda\ vrac\u00ED\ nazev\ v\u011Bci\r\n\ \ \r\n@return\ nazev\ veci\r\n
+comment2.params=
+comment2.target=boolean\ jePrenositelna()
+comment2.text=\r\n\ \ Metoda\ vrac\u00ED\ je-li\ v\u011Bc\ p\u0159enositelna\ a\ da\ se\ ji\ vzit\ do\ batohu.\r\n\ \ \r\n@return\ boolean\ true\ -\ p\u0159enositelna,\ false\ -\ nelze\ ji\ vzit\ do\ batohu\r\n
+comment3.params=in
+comment3.target=void\ setPrenositelnost(boolean)
+comment3.text=\r\n\ \ Metoda\ nastav\u00ED\ je-li\ v\u011Bc\ p\u0159enositelna\ a\ da\ se\ ji\ vzit\ do\ batohu.\r\n\ \ \r\n@param\ boolean\ true\ -\ p\u0159enositelna,\ false\ -\ nelze\ ji\ vzit\ do\ batohu\r\n
+numComments=4

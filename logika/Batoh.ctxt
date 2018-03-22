@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Batoh()
+comment0.text=\r\n\ \ Konstruktor,\ vytva\u0159\u00ED\ batoh\ a\ nov\u00FD\ hashSet\ se\ seznamom\ v\u011Bci\ v\ batohu\r\n
+comment1.params=vec
+comment1.target=boolean\ pridejVec(Vec)
+comment1.text=\r\n\ \ Metoda\ p\u0159idav\u00E1\ v\u011Bc\ do\ batohu,\ kontroluje\ z\u016Fstatek\ voln\u00FDch\ m\u00EDst.\r\n\ \ \r\n@param\ vec\r\n@return\ true\ \=\ vec\ je\ p\u0159\u00EDdana\ do\ batohu,\ false\ \=\ vec\ nep\u0159id\u00E1n\u00E1\ do\ batohu\r\n
+comment2.params=nazev
+comment2.target=Vec\ odeberVec(java.lang.String)
+comment2.text=\r\n\ \ Metoda\ odeb\u00EDr\u00E1\ v\u011Bc\ z\ batohu.\r\n\ \ \r\n@param\ nazev\ veci\r\n@return\ vec\ \=\ vec\ je\ odebran\u00E1\ batohu,\ null\ \=\ vec\ neodebr\u00E1n\u00E1\ z\ batohu\r\n
+comment3.params=
+comment3.target=java.util.Collection\ veciVBatohu()
+comment3.text=\r\n\ \ Metoda\ vrac\u00ED\ seznam\ v\u011Bci\ v\ batohu.\r\n\ \ \r\n@return\ seznam\ v\u011Bc\u00ED\r\n
+comment4.params=
+comment4.target=int\ volnychMist()
+comment4.text=\r\n\ \ Metoda\ po\u010Dit\u00E1\ kolik\ voln\u00FDch\ m\u00EDst\ zbyv\u00E1\ v\ batohu.\r\n\ \ \r\n@return\ po\u010Det\ voln\u00FDch\ mist\r\n
+comment5.params=
+comment5.target=java.lang.String\ vBatohu()
+comment5.text=\r\n\ \ Metoda\ vrac\u00ED\ ve\ formatu\ textu\ seznam\ v\u011Bc\u00ED\ v\ batohu\r\n\ \ \r\n@return\ seznam\ v\u011Bc\u00ED\ ve\ form\u011B\ textu\r\n
+comment6.params=nazev
+comment6.target=boolean\ najdiVBatohu(java.lang.String)
+comment6.text=\r\n\ \ Metoda\ hled\u00E1\ v\u011Bc\ v\ batohu\r\n\ \ \r\n@param\ nazev\ v\u011Bci\r\n@return\ true\ \=\ vec\ je\ nalezen\u00E1\ v\ batohu,\ false\ \=\ vec\ nenalezen\u00E1\r\n
+numComments=7

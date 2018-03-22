@@ -1,0 +1,43 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files (x86)\Java\jdk1.8.0_66\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+H:\java\BlueJ+3.1.5_RP_2015-11-19\BlueJ+3.1.5_RP\lib\bluejcore.jar;H:\java\BlueJ+3.1.5_RP_2015-11-19\BlueJ+3.1.5_RP\lib\junit-4.8.2.jar;H:\java\BlueJ+3.1.5_RP_2015-11-19\BlueJ+3.1.5_RP\lib\userlib\pi4j-core.jar;H:\java\BlueJ+3.1.5_RP_2015-11-19\BlueJ+3.1.5_RP\lib\userlib\pi4j-device.jar;H:\java\BlueJ+3.1.5_RP_2015-11-19\BlueJ+3.1.5_RP\lib\userlib\pi4j-gpio-extension.jar;H:\java\BlueJ+3.1.5_RP_2015-11-19\BlueJ+3.1.5_RP\lib\userlib\pi4j-service.jar;H:\java\adventuraZaklad_2016\adventuraZaklad_2016
+-d
+H:\java\adventuraZaklad_2016\adventuraZaklad_2016\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+H:\java\BlueJ+3.1.5_RP_2015-11-19\BlueJ+3.1.5_RP\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+H:\java\adventuraZaklad_2016\adventuraZaklad_2016\logika\PrikazSeber.java
+<---- end of javadoc command ---->
+Loading source file H:\java\adventuraZaklad_2016\adventuraZaklad_2016\logika\PrikazSeber.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_66
+Building tree for all the packages and classes...
+Generating H:\java\adventuraZaklad_2016\adventuraZaklad_2016\doc\logika\PrikazSeber.html...
+H:\java\adventuraZaklad_2016\adventuraZaklad_2016\logika\PrikazSeber.java:101: warning - @ is an unknown tag.
+Generating H:\java\adventuraZaklad_2016\adventuraZaklad_2016\doc\logika\package-frame.html...
+Generating H:\java\adventuraZaklad_2016\adventuraZaklad_2016\doc\logika\package-summary.html...
+Generating H:\java\adventuraZaklad_2016\adventuraZaklad_2016\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating H:\java\adventuraZaklad_2016\adventuraZaklad_2016\doc\allclasses-frame.html...
+Generating H:\java\adventuraZaklad_2016\adventuraZaklad_2016\doc\allclasses-noframe.html...
+Generating H:\java\adventuraZaklad_2016\adventuraZaklad_2016\doc\index.html...
+Generating H:\java\adventuraZaklad_2016\adventuraZaklad_2016\doc\stylesheet.css...
+1 warning

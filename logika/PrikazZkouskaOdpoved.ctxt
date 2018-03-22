@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=plan
+comment0.target=PrikazZkouskaOdpoved(HerniPlan)
+comment0.text=\r\n\ \ Konstruktor\ t\u0159\u00EDdy\r\n\ \ \r\n\ \ @param\ plan\ hern\u00ED\ pl\u00E1n,\ ve\ kter\u00E9m\ se\ bude\ ve\ h\u0159e\ "chodit"\ \r\n
+comment1.params=parametry
+comment1.target=java.lang.String\ provedPrikaz(java.lang.String[])
+comment1.text=\r\n\ \ Prov\u00E1d\u00ED\ p\u0159\u00EDkaz\ "odpovedZkouska".\ \u010Cte\ odpov\u011B\u010F\ hra\u010De\ na\ zkou\u0161kovou\ ot\u00E1zku,\ \r\n\ \ kontroluje\ jestli\ odpovezeno\ spr\u00E1vne.\ Jestli\ odpove\u010F\ nespr\u00E1vn\u00E1\ p\u0159i\u010Dit\u00E1\ jeden\ pokus\ a\ da\ se\ odpov\u011Bd\u011Bt\ znovu.\r\n\r\n@param\ \u010Dt\u00E9\ n\u00E1zev\ p\u0159ikazu\ a\ odpov\u011B\u010F\ na\ ot\u00E1zku\r\n\r\n@return\ zpr\u00E1va,\ kterou\ vyp\u00ED\u0161e\ hra\ hr\u00E1\u010Di\r\n
+comment2.params=
+comment2.target=java.lang.String\ getNazev()
+numComments=3

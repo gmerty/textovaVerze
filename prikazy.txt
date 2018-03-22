@@ -1,0 +1,28 @@
+﻿
+jdi Serborne
+mluv pan_Direktor
+odpoved ano
+odpovedZkouska o_45,2_%
+jdi Kembridge
+mluv pan_Hardy
+odpoved ano
+odpovedZkouska tautologie
+jdi Princeton
+mluv pan_Church
+odpoved ano
+odpovedZkouska nevim
+odpovedZkouska nevim
+odpovedZkouska nevim
+odpovedZkouska nevim
+odpovedZkouska nevim
+odpovedZkouska nevim
+odpovedZkouska Alane,_jsi_jednicka!
+batoh
+jdi Londyn
+mluv pan_Noks
+odpoved ano
+mluv pan_Churchill
+odpoved ano
+batoh
+jdi Bletchley_Park
+konec
